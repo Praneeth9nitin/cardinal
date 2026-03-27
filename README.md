@@ -3,7 +3,7 @@
 > I read Cardinal's problem statement and built a working prototype in 3 days to understand the product deeply.
 > This is not a clone — it's a demonstration of how I think about product and AI engineering.
 
-**Live Demo → [cardinal-iota.vercel.app](https://cardinal-iota.vercel.app)**
+**Live Demo → [cardinal-prototype.vercel.app](https://cardinal-prototype.vercel.app/)**
 
 ---
 
